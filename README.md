@@ -1,7 +1,5 @@
 # Feathersjs, React, & Webpack
 
-## About
-
 This repo is simple boilerplate repo to get you started with using Webpack, React, and Feathers.
 
 ## Getting Started
@@ -12,7 +10,8 @@ Getting up and running is as easy as 1, 2, 3.
 2. Install your dependencies
 
     ```
-    cd path/to/feathersApp; npm install
+    cd path/to/feathersApp
+    npm install
     ```
 
 3. Start your app
