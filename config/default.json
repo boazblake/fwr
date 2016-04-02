@@ -2,7 +2,7 @@
   "host": "localhost",
   "port": 3030,
   "nedb": "../data/",
-  "public": "../public/",
+  "public": "../app/",
   "auth": {
     "token": {
       "secret": "GzPgHR5c6tgeBNj/HVBZTNL24MuZnPbJlmV+/sCJDHBuQI8pzyHFAp+DD0Z8b6s9yrHPLXxHed7DC0vITKEy0g=="
